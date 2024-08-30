@@ -138,8 +138,8 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-auto text-center text-md-end">
                     <p class="mb-0 text-white">Copyright
-                        <i class="fal fa-copyright"></i> 2023 All rights reserved by
-                        <a class="text-white" href="{{route('index')}}">Mi21 International</a>.
+                        <i class="fal fa-copyright"></i> 2024 All rights reserved by
+                        <a class="text-white" href="{{route('index')}}">Rayhans Clinic & Cancer Center Ltd</a>.
                     </p>
                 </div>
                 <div class="col-auto d-none d-md-block">
