@@ -450,7 +450,7 @@
                         <div class="blog-meta">
                             <a href="{{route('blog_deails',$v->id)}}">
                                 <?php $data = json_decode($v->tag); ?>
-                                <i class="far fa-folder"></i>Temporary Text
+                                <i class="far fa-folder"></i>{{$data[0]}}
                             </a>
                             <a href="{{route('blog_deails',$v->id)}}">
                                 <i class="fal fa-user"></i>{{$v->author}}
